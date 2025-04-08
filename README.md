@@ -1,6 +1,6 @@
 Hi!
 
-This is a file with preliminary data analysis for the Honours Dissertation Project "Planning Fallacy". 
+This is a file with preliminary data analysis for the Honours Dissertation Project "Planning Fallacy". This file was meant to assist the research group in their own data analysis in the "Results" section of the dissertation, specifically with the decision-making in statistical tests (e.g. non-parametric/ parametric ANOVA's).
 The project focused on cognitive techniques that may mitigate planning fallacy in educational contexts, such as in creating a presentation. 
 
 Honours research group tested planning accuracy in 3 conditions with different interventions strategies (techniques to improve planning) and 
